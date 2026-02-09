@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="imgs/piast.png" alt="PIAST overview figure" width="850">
+  <img src="imgs/gps.png" alt="GPS overview figure" width="850">
 </div>
 
 ---
